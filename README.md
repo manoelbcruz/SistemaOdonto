@@ -1,6 +1,6 @@
 # 🦷 Sistema de Gestão para Clínica Odontológica
 
-Projeto desenvolvido em C# utilizando Windows Forms, Entity Framework e SQL Server, com foco em gestão de pacientes e atendimentos odontológicos.
+Projeto desenvolvido em C# utilizando Windows Forms, Entity Framework, .NET e SQL Server, com foco em gestão de pacientes e atendimentos odontológicos.
 
 ---
 
